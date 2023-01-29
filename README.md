@@ -1,7 +1,7 @@
 ### oh hi 👋
 
 🚀 ex [buildspace](https://buildspace.so)  
-🏗 currently building an interactive layer on top of [CMv2](https://docs.metaplex.com/candy-machine-v2/introduction) (Launching Mar 2022)
+🏗 currently building [@KYDLabs](https://twitter.com/kydlabs)
 
 checkout my recent posts 👇  
 ▶️ [How We Built the Buildspace NFT Contract](https://davbarrick.medium.com/how-we-built-the-buildspace-nft-contract-1dc8b81a3b4f)  
